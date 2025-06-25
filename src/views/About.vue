@@ -188,7 +188,7 @@ const fullName = computed(() => {
   width: 20px; /* For alignment */
   text-align: center;
 }
-
+// Form styles
 .form-group {
   margin-bottom: 1.25rem; /* Slightly increased */
 }
