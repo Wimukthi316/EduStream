@@ -152,7 +152,7 @@ const fullName = computed(() => {
 .view-preference-card:hover {
   transform: translateY(-5px);
 }
-
+// Card titles and text
 .section-title {
   color: var(--primary-color);
   font-weight: 700; /* Match Home page .section-title */
