@@ -24,7 +24,7 @@
           </ul>
         </div>
       </div>
-
+// Welcome Card and View Preference Card
       <div class="col-12 col-md-6 d-flex flex-column gap-3">
         <div class="welcome-card flex-fill">
           <h3 class="section-title">Welcome Message</h3>
