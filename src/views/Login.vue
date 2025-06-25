@@ -161,7 +161,7 @@ const handleSubmit = async () => {
   text-align: center;
   margin-bottom: 1.5rem;
 }
-
+//-- Variables for colors and shadows
 .logo-icon {
   display: inline-flex;
   align-items: center;
