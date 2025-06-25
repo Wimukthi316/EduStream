@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "date": "2024-03-15",
+    "title": "New Technology Breakthrough in Renewable Energy",
+    "content": "Scientists have made a significant breakthrough in solar panel efficiency, achieving a new record of 45% energy conversion rate.",
+    "category": "Technology"
+  },
+  {
+    "id": 2,
+    "date": "2024-03-14",
+    "title": "Global Climate Summit Reaches New Agreement",
+    "content": "World leaders have agreed on new measures to combat climate change, setting ambitious targets for carbon reduction.",
+    "category": "Environment"
+  },
+  {
+    "id": 3,
+    "date": "2024-03-13",
+    "title": "Major Sports League Announces Expansion",
+    "content": "The premier sports league has announced plans to expand to new cities, bringing professional sports to more communities.",
+    "category": "Sports"
+  },
+  {
+    "id": 4,
+    "date": "2024-03-12",
+    "title": "Economic Growth Exceeds Expectations",
+    "content": "The latest economic indicators show stronger than expected growth, with unemployment reaching new lows.",
+    "category": "Business"
+  },
+  {
+    "id": 5,
+    "date": "2024-03-11",
+    "title": "New Medical Research Shows Promise",
+    "content": "Breakthrough research in medical science could lead to new treatments for chronic diseases.",
+    "category": "Health"
+  },
+  {
+    "id": 6,
+    "date": "2024-03-10",
+    "title": "Space Mission Successfully Launches",
+    "content": "A new space mission has successfully launched, carrying important scientific equipment to study distant planets.",
+    "category": "Science"
+  },
+  {
+    "id": 7,
+    "date": "2024-03-09",
+    "title": "Cultural Festival Draws Record Crowds",
+    "content": "The annual cultural festival has attracted record numbers of visitors, celebrating diversity and tradition.",
+    "category": "Culture"
+  },
+  {
+    "id": 8,
+    "date": "2024-03-08",
+    "title": "Education Reform Bill Passed",
+    "content": "New education reforms have been approved, promising to improve learning outcomes for students nationwide.",
+    "category": "Education"
+  },
+  {
+    "id": 9,
+    "date": "2024-03-07",
+    "title": "New Restaurant Opens Downtown",
+    "content": "A highly anticipated restaurant has opened its doors, bringing innovative cuisine to the city center.",
+    "category": "Food"
+  },
+  {
+    "id": 10,
+    "date": "2024-03-06",
+    "title": "Art Exhibition Features Local Artists",
+    "content": "A new art exhibition showcasing local talent has opened at the city's main gallery.",
+    "category": "Arts"
+  }
+] 

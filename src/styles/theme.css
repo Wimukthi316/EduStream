@@ -1,0 +1,211 @@
+:root {
+  /* Primary Colors */
+  --primary-color: #1B4332;
+  --primary-light: #2D6A4F;
+  --primary-dark: #081C15;
+  
+  /* Secondary Colors */
+  --secondary-color: #40916C;
+  --secondary-light: #74C69D;
+  --secondary-dark: #2D6A4F;
+  
+  /* Accent Colors */
+  --accent-color: #95D5B2;
+  --accent-light: #B7E4C7;
+  --accent-dark: #74C69D;
+  
+  /* Text Colors */
+  --text-color: #1B4332;
+  --text-light: #40916C;
+  --text-muted: #74C69D;
+  
+  /* Background Colors */
+  --bg-color: #FFFFFF;
+  --bg-light: #F8F9FA;
+  --bg-dark: #081C15;
+  
+  /* Button Colors */
+  --btn-primary: var(--primary-color);
+  --btn-primary-hover: var(--primary-dark);
+  --btn-secondary: var(--secondary-color);
+  --btn-secondary-hover: var(--secondary-dark);
+  --btn-outline: var(--primary-color);
+  --btn-outline-hover: var(--primary-light);
+  
+  /* Link Colors */
+  --link-color: var(--primary-color);
+  --link-hover: var(--primary-dark);
+  
+  /* Border Colors */
+  --border-color: var(--accent-light);
+  --border-light: var(--accent-color);
+  --border-dark: var(--primary-color);
+}
+
+/* Override Bootstrap Colors */
+.btn-primary {
+  background-color: var(--btn-primary) !important;
+  border-color: var(--btn-primary) !important;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: var(--btn-primary-hover) !important;
+  border-color: var(--btn-primary-hover) !important;
+}
+
+.btn-secondary {
+  background-color: var(--btn-secondary) !important;
+  border-color: var(--btn-secondary) !important;
+}
+
+.btn-secondary:hover,
+.btn-secondary:focus {
+  background-color: var(--btn-secondary-hover) !important;
+  border-color: var(--btn-secondary-hover) !important;
+}
+
+.btn-outline-primary {
+  color: var(--btn-outline) !important;
+  border-color: var(--btn-outline) !important;
+}
+
+.btn-outline-primary:hover,
+.btn-outline-primary:focus {
+  background-color: var(--btn-outline-hover) !important;
+  border-color: var(--btn-outline-hover) !important;
+  color: white !important;
+}
+
+.text-primary {
+  color: var(--primary-color) !important;
+}
+
+.text-secondary {
+  color: var(--secondary-color) !important;
+}
+
+.text-muted {
+  color: var(--text-muted) !important;
+}
+
+.bg-primary {
+  background-color: var(--primary-color) !important;
+}
+
+.bg-secondary {
+  background-color: var(--secondary-color) !important;
+}
+
+.bg-light {
+  background-color: var(--bg-light) !important;
+}
+
+/* Custom Component Styles */
+.navbar {
+  background-color: var(--bg-color) !important;
+  border-bottom: 1px solid var(--border-light) !important;
+}
+
+.navbar-brand {
+  color: var(--primary-color) !important;
+}
+
+.nav-link {
+  color: var(--text-color) !important;
+}
+
+.nav-link:hover {
+  color: var(--primary-color) !important;
+}
+
+.card {
+  border-color: var(--border-light) !important;
+}
+
+.card-header {
+  background-color: var(--bg-light) !important;
+  border-bottom-color: var(--border-light) !important;
+}
+
+.form-control:focus {
+  border-color: var(--primary-color) !important;
+  box-shadow: 0 0 0 0.2rem rgba(27, 67, 50, 0.25) !important;
+}
+
+/* Custom Button Styles */
+.btn-like {
+  color: var(--text-muted) !important;
+}
+
+.btn-like:hover,
+.btn-like.liked {
+  color: var(--primary-color) !important;
+}
+
+.btn-actions {
+  color: var(--text-color) !important;
+}
+
+.btn-actions:hover {
+  color: var(--primary-color) !important;
+}
+
+/* Hero Section */
+.hero-section {
+  background: linear-gradient(135deg, var(--primary-color), var(--primary-light)) !important;
+}
+
+.hero-cta.btn-light {
+  background-color: var(--accent-light) !important;
+  color: var(--primary-color) !important;
+}
+
+.hero-cta.btn-light:hover {
+  background-color: var(--accent-color) !important;
+}
+
+/* Auth Pages */
+.auth-submit-btn.btn-primary {
+  background-color: var(--primary-color) !important;
+  border-color: var(--primary-color) !important;
+}
+
+.auth-submit-btn.btn-primary:hover,
+.auth-submit-btn.btn-primary:focus {
+  background-color: var(--primary-dark) !important;
+  border-color: var(--primary-dark) !important;
+}
+
+/* Profile Page */
+.profile-header {
+  background: linear-gradient(135deg, var(--primary-color), var(--primary-light)) !important;
+}
+
+/* News Page */
+.news-card {
+  border-color: var(--border-light) !important;
+}
+
+.news-card:hover {
+  border-color: var(--primary-color) !important;
+}
+
+/* About Page */
+.about-section {
+  background-color: var(--bg-light) !important;
+}
+
+/* Footer */
+.footer {
+  background-color: var(--primary-dark) !important;
+  color: var(--accent-light) !important;
+}
+
+.footer a {
+  color: var(--accent-color) !important;
+}
+
+.footer a:hover {
+  color: var(--accent-light) !important;
+} 
