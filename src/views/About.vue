@@ -126,7 +126,7 @@ const fullName = computed(() => {
   font-weight: 700; /* Match home hero */
   margin-bottom: 1rem; /* Match home hero */
 }
-
+// Styles for the subtitle
 .page-subtitle {
   color: #555; /* Slightly darker than default lead for better contrast */
   font-size: 1.15rem; /* Match home hero lead */
