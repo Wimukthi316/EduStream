@@ -198,7 +198,7 @@ const fullName = computed(() => {
   font-weight: 500;
   margin-bottom: 0.5rem;
 }
-
+// Form control styles
 .form-control {
   border: 1px solid #ced4da; /* Standard Bootstrap border color */
   border-radius: 6px;
