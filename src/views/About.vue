@@ -8,7 +8,7 @@
         </p>
       </div>
     </div>
-
+  // Title Section - similar to Home page hero
     <!-- Main Content Row - directly under .container (or after hero) -->
     <div class="row g-4 align-items-stretch">
       <div class="col-12 col-md-6 d-flex mb-4 mb-md-0">
