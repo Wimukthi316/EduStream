@@ -143,7 +143,7 @@ const handleSubmit = async () => {
   width: 100%;
   max-width: 480px;
 }
-
+//-- Variables for colors and shadows
 .auth-card {
   background: rgb(205, 204, 204);
   padding: 3rem;
