@@ -172,7 +172,7 @@ const fullName = computed(() => {
   margin-top: 1rem; /* Adjusted from 1.2rem */
   margin-bottom: 0; /* Ensure no extra bottom margin if it's the last element */
 }
-
+// Feature items
 .feature-item {
   display: flex;
   align-items: center;
