@@ -11,7 +11,7 @@
           <h1 class="auth-title">Welcome Back!</h1>
           
         </div>
-
+        //-- Variables for colors and shadows
         <form @submit.prevent="handleSubmit" class="auth-form">
           <div class="form-group">
             <label for="email" class="form-label">
