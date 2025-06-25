@@ -165,7 +165,7 @@ const fullName = computed(() => {
   font-size: 1.1rem; /* Match Home page .section-text */
   margin-bottom: 1.5rem; /* Match Home page .section-text */
 }
-
+// Features list
 .features-list {
   list-style: none;
   padding-left: 0;
