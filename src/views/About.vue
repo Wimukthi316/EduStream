@@ -146,7 +146,7 @@ const fullName = computed(() => {
   display: flex;
   flex-direction: column;
 }
-
+// Hover effect for cards
 .about-card:hover,
 .welcome-card:hover,
 .view-preference-card:hover {
