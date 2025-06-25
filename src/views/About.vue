@@ -158,7 +158,7 @@ const fullName = computed(() => {
   font-weight: 700; /* Match Home page .section-title */
   margin-bottom: 1.5rem; /* Match Home page .section-title */
 }
-
+// Section text
 .section-text {
   color: #666;
   line-height: 1.8; /* Match Home page .section-text */
