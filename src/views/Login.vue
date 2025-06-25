@@ -172,7 +172,7 @@ const handleSubmit = async () => {
   background: linear-gradient(135deg, var(--primary-color), var(--dark-color));
   box-shadow: 0 4px 15px rgba(230, 57, 70, 0.3);
 }
-
+//-- Variables for colors and shadows
 .logo-icon i {
   font-size: 2rem;
   color: white;
