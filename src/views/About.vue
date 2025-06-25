@@ -180,7 +180,7 @@ const fullName = computed(() => {
   color: var(--primary-color);
   font-size: 1.05rem; /* Slightly larger for readability */
 }
-
+// Feature item icon
 .feature-item i {
   color: var(--secondary-color);
   margin-right: 0.7rem;
