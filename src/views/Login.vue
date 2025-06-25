@@ -138,7 +138,7 @@ const handleSubmit = async () => {
   align-items: center;
   justify-content: center;
 }
-
+//-- Variables for colors and shadows
 .auth-wrapper {
   width: 100%;
   max-width: 480px;
