@@ -192,7 +192,7 @@ const fullName = computed(() => {
 .form-group {
   margin-bottom: 1.25rem; /* Slightly increased */
 }
-
+// Form label and control
 .form-label {
   color: var(--primary-color);
   font-weight: 500;
