@@ -133,7 +133,7 @@ const fullName = computed(() => {
   margin-bottom: 0; /* No extra margin if it's the last element in its col */
 }
 
-
+// Styles for the cards
 .about-card,
 .welcome-card,
 .view-preference-card {
