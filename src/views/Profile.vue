@@ -174,7 +174,7 @@ const startEditing = () => {
   editedBio.value = userBio.value
   isEditing.value = true
 }
-
+// Cancel editing and reset fields
 const cancelEditing = () => {
   isEditing.value = false
   editedName.value = user?.name || ''
